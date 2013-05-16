@@ -1,12 +1,12 @@
-# Ask ![](http://i.imgur.com/WKmbIqL.png) anything
+# Ask ![](http://i.imgur.com/WKmbIqL.png) anything:exclamation:
 
-As a grassroots organization, we want to be as transparent as possible, so we'll be holding our discussions in public
-on GitHub.  
+As a **grassroots** organization, we want to be as **transparent** as possible,
+so we'll be holding our discussions in **public** on GitHub.  
 This means you can easily see what we're doing and jump in at any time if you have a question or want to contribute.
 
 ---
 
-### Start a discussion
+### :point_right: Start a discussion :point_left:
 
 Asking a question or starting a new discussion is as easy as [creating a new issue](https://github.com/softwareniagara/feedback/issues/new)
 on this project.
@@ -21,7 +21,7 @@ ask a question on any old issue too, even if you didn't create it.
 
 ---
 
-### Read some past discussions
+### :point_right: Read some past discussions :point_left:
 
 Check out the [Closed Issues](https://github.com/softwareniagara/feedback/issues?sort=created&direction=desc&state=closed&page=1)
 to browse discussions we've had in the past.  
@@ -30,14 +30,14 @@ into some of the older threads.
 
 ---
 
-### Twitter
+### :point_right: Twitter :point_left:
 
 If you have something quick and easy, just ping us on Twitter [@SoftwareNiagara](https://twitter.com/softwareniagara).
 140 characters makes everyone more efficient.
 
 ---
 
-### Email
+### :point_right: Email :point_left:
 
 If there's something you really don't want to discuss in public, send an email to info@softwareniagara.com
 or directly to [any of our team members](http://softwareniagara.com/about/).
@@ -46,7 +46,7 @@ If the information isn't sensitive, we prefer that you
 
 ---
 
-### Follow our activity
+### :point_right: Follow our activity :point_left:
 
 If you want to follow our activity on a specific project, watch the repository you're interested in.  
 You'll need to be signed into GitHub, then click the ![watch](http://i.imgur.com/GZpyVEu.png?1)
