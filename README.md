@@ -39,7 +39,7 @@ If you have something quick and easy, just ping us on Twitter [@SoftwareNiagara]
 
 ### :point_right: IRC :point_left:
 
-We're #softwareniagara on Freenode. [Come chat with us!](http://webchat.freenode.net/?channels=#freeseer)
+We're #softwareniagara on Freenode. [Come chat with us!](http://webchat.freenode.net/?channels=#softwareniagara)
 
 ---
 
