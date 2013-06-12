@@ -1,4 +1,4 @@
-# Ask <img src="https://raw.github.com/softwareniagara/softwareniagara.com/master/src/files/images/logo-inverse.png" alt="Software Niagara" width="100"> anything:exclamation:
+# Ask <img src="https://raw.github.com/softwareniagara/marketing/master/logos/software-niagara-logo-a.png" alt="Software Niagara" width="100"> anything:exclamation:
 
 As a **grassroots** organization, we want to be as **transparent** as possible,
 so we'll be holding our discussions in **public** on GitHub.  
