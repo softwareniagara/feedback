@@ -39,8 +39,7 @@ If you have something quick and easy, just ping us on Twitter [@SoftwareNiagara]
 
 ### :point_right: Email :point_left:
 
-If there's something you really don't want to discuss in public, send an email to info@softwareniagara.com
-or directly to [any of our team members](http://softwareniagara.com/about/#team).
+If there's something you really don't want to discuss in public, send an email to info@softwareniagara.com.
 If the information isn't sensitive, we prefer that you
 [create a new issue](https://github.com/softwareniagara/feedback/issues/new) instead of emailing us.
 
