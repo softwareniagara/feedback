@@ -37,6 +37,12 @@ If you have something quick and easy, just ping us on Twitter [@SoftwareNiagara]
 
 ---
 
+### :point_right: Forum :point_left:
+
+We have a forum where we discuss upcoming events, talk shop, and more. The forum is also where we take signups for speakers for DevTricks. Check out the [Software Niagara Forum](http://forum.softwareniagara.com). 
+
+---
+
 ### :point_right: Email :point_left:
 
 If there's something you really don't want to discuss in public, send an email to info@softwareniagara.com.
